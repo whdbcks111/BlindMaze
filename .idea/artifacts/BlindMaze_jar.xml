@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlindMaze:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlindMaze_jar</output-path>
+    <root id="archive" name="BlindMaze.jar">
+      <element id="module-output" name="BlindMaze" />
+    </root>
+  </artifact>
+</component>
